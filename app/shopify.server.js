@@ -1,3 +1,5 @@
+// Code for the shopify server js file 
+
 import "@shopify/shopify-app-remix/adapters/node";
 import {
   ApiVersion,
